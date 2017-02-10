@@ -1,15 +1,20 @@
 `增强集合框架`
 
-**集合创建**
+集合创建：
+    Maps,Sets,Lists
 
-**集合初始化**
+集合初始化：
+    集合构造方法可传参
 
-**不变性**
+不变性：
+    immutable
 
-**新的集合类型**
+新的集合类型
+    MultiMap,MultiSet,Table,BiMap,ClassToInstanceMap
 
-**谓词和筛选**
+谓词和筛选
 
-**功能和转换**
 
-**排序**
+功能和转换
+
+排序
