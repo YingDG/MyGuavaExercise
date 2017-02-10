@@ -10,7 +10,7 @@
     immutable
 
 新的集合类型
-    MultiMap,MultiSet,Table,BiMap,ClassToInstanceMap
+    MultiMap,MultiSet,Table,BiMap
 
 谓词和筛选
 
