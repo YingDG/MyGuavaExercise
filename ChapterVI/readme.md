@@ -18,6 +18,8 @@ Guava Cache 适用于：
 
 CacheBuilder
 
+Cache
+
 LoadingCache
 
 CacheLoader
