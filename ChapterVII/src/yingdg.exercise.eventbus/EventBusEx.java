@@ -1,5 +1,6 @@
 package yingdg.exercise.eventbus;
 
+import com.google.common.eventbus.AllowConcurrentEvents;
 import com.google.common.eventbus.EventBus;
 import com.google.common.eventbus.Subscribe;
 import org.junit.Test;
@@ -11,6 +12,7 @@ public class EventBusEx {
 
     // 支持多个
     @Subscribe
+    @AllowConcurrentEvents
     public void listen(MyEvent event) {
         System.out.println(event.getMes());
     }

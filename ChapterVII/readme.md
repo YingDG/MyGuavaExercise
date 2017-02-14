@@ -2,6 +2,8 @@
 
 EventBus类
 
+AsynEventBus类(适合事件处理器需要花费时间比较长的场景)
+
 DeadEvent
 
 @Subscribe
