@@ -1,6 +1,6 @@
 # MyGuavaExercise
 
-历史由来： _Google Collections Library，2007_
+Google Guava历史由来： _Google Collections Library，2007_
 
 此项目用来使用*Guava*进行JavaSE开发练习，分为如下章节：
 
